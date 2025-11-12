@@ -5,7 +5,7 @@
 ---
 
 An easy-to-run PyTorch implementation for our paper  
-**"Universal EEG Epilepsy Detection via Evidential Multi-View De-Biasing" (AAAI 2026 oral)**  
+**"Universal EEG Epilepsy Detection via Evidential Multi-View De-Biasing" (AAAI 2026 Oral)**  
 
 If you have any questions, feel free to contact **zqwenn@stu.xidian.edu.cn** — happy to discuss and exchange ideas!  
 
