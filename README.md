@@ -20,6 +20,8 @@ If you have any questions, please feel free to contact **zqwenn@stu.xidian.edu.c
 ---
 
 If you find this work useful, please kindly cite our paper:
+
+```bibtex
 @inproceedings{wen2026universal,
   title={Universal EEG Epilepsy Detection via Evidential Multi-View De-Biasing},
   author={Wen, Ziqi and Xu, Cai and Zhao, Wanqing and Zhao, Jie and Zhao, Wei},
@@ -29,3 +31,4 @@ If you find this work useful, please kindly cite our paper:
   pages={26849--26857},
   year={2026}
 }
+```
