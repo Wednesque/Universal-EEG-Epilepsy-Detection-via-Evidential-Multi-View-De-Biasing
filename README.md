@@ -10,7 +10,7 @@ This repository provides a PyTorch implementation for the paper:
 
 This work proposes a bias-guided Fisher-evidential multi-view learning framework for universal EEG epileptic seizure detection. The framework includes multi-view EEG feature construction, Fisher-evidential evidence estimation, low-evidence sample selection, biased branch training, and final debiased model training.
 
-If you have any questions, feel free to contact **zqwenn@stu.xidian.edu.cn** — happy to discuss and exchange ideas!
+If you have any questions, feel free to contact **wednesque@gmail.com** — happy to discuss and exchange ideas!
 
 If you find this work useful, please kindly cite our paper:
 
