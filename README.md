@@ -237,22 +237,13 @@ BF-EML/
 This codebase is built with reference to several excellent open-source projects. We sincerely thank the authors for their valuable contributions.
 
 - **Multi-view fusion:**  
-  https://github.com/Wednesque/RCML
+  https://github.com/jiajunsi/RCML
 
 - **Bias elimination:**  
-  https://github.com/Wednesque/DEAR  
-  https://github.com/Wednesque/rebias
+  https://github.com/Cogito2012/DEAR
+  https://github.com/clovaai/rebias
 
 - **Fisher evidential network:**  
-  https://github.com/Wednesque/anedl  
-  https://github.com/Wednesque/IEDL
-
----
-
-## 📬 Contact
-
-For questions, discussions, or suggestions, please contact:
-
-```text
-zqwenn@stu.xidian.edu.cn
-```
+  https://github.com/yuyang16101066/anedl  
+  https://github.com/danruod/IEDL
+  
