@@ -87,8 +87,6 @@ After running this script, you will obtain a record file containing seizure time
 
 **Note:** The extracted seizure time slices may include segments with different channel configurations. You can choose the required segments and channels according to your own experimental setting.
 
-We also provide a pre-selected `record.txt` file to help users conveniently reproduce or customize the preprocessing procedure.
-
 ---
 
 ### 3. Channel Extraction
