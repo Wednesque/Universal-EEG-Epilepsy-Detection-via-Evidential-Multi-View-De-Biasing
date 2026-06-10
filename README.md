@@ -19,6 +19,9 @@ If you find this work useful, please kindly cite our paper:
   title={Universal EEG Epilepsy Detection via Evidential Multi-View De-Biasing},
   author={Wen, Ziqi and Xu, Cai and Zhao, Wanqing and Zhao, Jie and Zhao, Wei},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={32},
+  pages={26849--26857},
   year={2026}
 }
 ```
